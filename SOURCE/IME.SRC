@@ -1,0 +1,254 @@
+.doctitle IME
+.doctheme 255
+.color 4
+.font 4 3
+.stringcenter Mecanisme de amplificare cu raport de
+.incy 25
+.stringcenter transmitere constant i variabil
+.incy 50
+.color 0
+.font 10 1
+.stringcenter a. Introducere
+.font 5 5
+.incy 20
+
+        Sistemele mecanice de amplificare sunt formate din doua sau mai multe
+elemente constructive, prin care se transmite sau se transforma miscarea
+cantitativ (de la o viteza la alta) sau calitativ (din rotatie in translatie
+si invers).
+
+        Aceste transmisii se pot imparti in doua grupe:
+.color 4
+         - prin contact direct{noteoln}
+.color 0
+: rotile dintate, rotile de frictiune,
+         mecanismele cu surub, mecanismele cu pirghii;
+.color 4
+         - cu elemente intermediare{noteoln}
+.color 0
+: benzile, firele, curelele, lanturile.
+
+        Miscarea cea mai raspinditain tehnica este rotatia, transmiterea si
+transformarea acesteia fiind realizata prin: roti de frictiune, roti dintate,
+transmisii prin benzi, fire, curele si lant.
+
+        Aceste mecanisme se utilizeaza in constructia de aparate pentru
+transmiterea si transformarea unor semnale, avind o caracteristica statica
+liniara, si pentru propagarea unor semnale cu caracteristica neliniara, in
+scopul maririi domeniului de masurare. Constructiv, cele mai uzuale mecanisme
+sunt cu roti, pirghii, cama sau cu o combinatie a acestora (vezi figurile).
+.eop
+
+        La proiectarea acestor mecanisme trebuie solutionate urmatoarele
+probleme:
+         - realizarea legii semnalului;
+         - gabaritul minim al mecanismului;
+         - precizia de propagare a semnalului.
+
+        In cazul fiecarui mecanism apar erori teoretice si constructive.
+Erorile teoretice apar datorita aproximarii legii reale de propagare a
+semnalelor cu o caracteristica liniara. Diviziunile de pe cadranele aparatelor
+fiind trasate echidistant (conform legii teoretice a semnalului), iar miscarea
+elementului condus realizindu-se corespunzator legii reale de propagare,
+exista erori de indicare, denumite teoretice.
+
+        Erorile constructiveconsidera abaterile existente intre dimensiunile
+de calcul si cele reale, datorate tolerantelor de executie, jocurilor din
+cuple, variatiilor de temperatura sau deformatiilor elementelor. Pentru
+preluarea jocurilor din cuplele superioare se utilizeaza arcuri spirale de
+rezistenta.
+
+.font 10 1
+.stringcenter b. Transmisii prin fric€iune
+.font 5 5
+.incy 20
+
+        Transmiterea miscarii de rotatie intre doua elemente se poate realiza
+cu ajutorul rotilor de frictiune, pe baza frecarii ce ia nastere intre
+suprafetele acestora datorita apasarii reciproce.
+.eop
+        Avantajele transmisiilor prin frictiune sunt:
+          - constructie si executie simple;
+          - functionare lina si fara zgomot;
+          - posibilitatea patinarii la suprasarcini;
+          - lipsa curselor moarte;
+          - reglare usoara a vitezei elementului condus;
+          - cuplare si decuplare comoda.
+
+        Ca dezavantaje se pot mentiona:
+          - forte de apasare intre roti;
+          - solicitari mari in arbori si lagare;
+          - uzura pronuntata.
+
+.font 10 1
+.stringcenter b.1. Transmisii prin fric€iune cu raport constant
+.font 5 5
+.incy 20
+
+        Transmiterea miscarii prin frictiune se poate face intre doi arbori
+paraleli, intre doi arbori care se intersecteaza in plan sau prin
+transformarea miscarii de rotatie in miscare de translatie.
+
+.font 10 1
+.stringcenter b.2. Transmisii prin fric€iune cu raport variabil
+.font 5 5
+.incy 20
+
+        Pentru modficarea lina si continua a vitezei elementului condus si
+pentru efectuarea unor operatii matematice ca integrarea, logaritmarea,
+ridicarea la patrat sefolosesc variatoare de turatie. Acestea se pot realiza
+cu roti avind axele fixe sau cu mecanisme planetare.
+.eop
+
+        Dupa forma constructiva a elementelor componente se disting:
+          - variatoare cu roti cilindrice;
+          - variatoare cu roti conice;
+          - variatoare cu elemente sferice;
+          - variatoare cu elemente profilate.
+
+        Modificarea raportului de transmitere este rezultatul schimbarii
+pozitiei relative a rotilor de frictiune prin deplasarea acestora in lungul
+arborelui sau prin inclinarea axei acestuia.
+
+.font 10 1
+.stringcenter c. Transmisii cu ro€i din€ate
+.font 5 5
+.incy 20
+
+        Rotile dintate se caracterizeaza prin:
+          - randament ridicat;
+          - functionare sigura;
+          - gabarit redus;
+          - rezistenta si durabilitate mare.
+
+        Ca dezavantaje se pot mentiona:
+          - reglarea vitezei in trepte;
+          - executie dificila;
+          - zgomot in functionare.
+.eop
+
+.font 10 1
+.stringcenter d. Transmisii pentru transformarea indirecta a mic†rii,
+.incy 20
+.stringcenter pe baz† de aderen€† si prin angrenare.
+.font 5 5
+.incy 20
+
+        Transmisiile pentru transformarea indirecta a miscarii se realizaeza
+folosindu-se un element intermediar si se utilizeaza atunci cind distanta
+intre elementele condus si conducator este mare sau pentru trasformarea
+miscarii de rotatie in miscare de translatie (ori invers).
+
+        In functie de modalitatea transmiterii miscarii se disting:
+         - transmisiile prin aderenta, cu elemente de tractiune, la care
+          miscarea se transmite prin frecare de la roata motoare la elementul
+          intermediar elastic si de la acesta, la roata condusa;
+         - transmisiile prin legare directa, la care elementul elastic este
+          fixat de rotile motoare si condusa;
+         - transmisiile prin angrenare la care elementul intermediar este un
+          lant sau o curea dintata, rotile avind o dantura adecvata.
+
+.eop
+.color 4
+.font 4 4
+.incy 5
+.stringcenter Transmisii cu band†
+.image 1 10 140 8.gif
+.font 5 5
+.color 1
+.incy 70
+                                        a) Caracteristica static† teoretic†:
+.incy 60
+                                        b) Caracteristica static† real†:
+.incy 60
+                                        c) Eroarea teoretic†:
+.incy 50
+                                        d) Eroarea constructiv†:
+.image 1 340 105 8-1.gif
+.image 1 340 180 8-2.gif
+.image 1 340 260 8-3.gif
+.image 1 340 325 8-4.gif
+.color 0
+.incy 70
+                                           e1 i e2 = excentricit†€ile ro€ilor
+.eop
+.color 4
+.font 4 4
+.incy 5
+.stringcenter Mecanismul de arctangent†
+.image 1 20 90 2.gif
+.font 5 5
+.color 1
+.incy 70
+                                        a) Caracteristica static† teoretic†:
+.incy 140
+                                        b) Caracteristica static† real†:
+.image 1 340 105 2-1.gif
+.image 1 340 160 2-1-1.gif
+.image 1 340 270 2-2.gif
+.eop
+.color 4
+.font 4 3
+.incy 5
+.stringcenter Mecanismul cu culis† oscilant†
+.incy 25
+.stringcenter cu axe paralele
+.image 1 10 110 3.gif
+.font 5 5
+.color 1
+.incy 70
+                                   a) Caracteristica static† teoretic†:
+.incy 140
+                                   b) Caracteristica static† real†:
+.image 1 300 135 3-1.gif
+.image 1 300 190 3-1-1.gif
+.image 1 300 300 3-2.gif
+
+.eop
+.color 4
+.font 4 3
+.incy 5
+.stringcenter Mecanisme cu pƒrghii i
+.incy 25
+.stringcenter ro€i din€ate
+.image 1 10 80 9b.gif
+.eop
+.cuprins
+.color 4
+.font 4 3
+.stringcenter Sumar
+
+.font 4 1
+.color 1
+      {noteoln}
+.link 1 Introducere
+
+
+      {noteoln}
+.link 2 Transmisii prin fric€iune
+
+
+      {noteoln}
+.link 4 Transmisii cu ro€i din€ate
+
+
+      {noteoln}
+.link 5 Transmisii prin angrenare
+
+
+      {noteoln}
+.link 6 Transmisii cu banda (schem†)
+
+
+      {noteoln}
+.link 7 Mecanismul de arctangenta (schem†)
+
+
+      {noteoln}
+.link 8 Mecanismul cu culis† oscilant† (schem†)
+
+
+      {noteoln}
+.link 9 Mecanisme cu pƒrghi i ro€i din€ate (schem†)
+
+.eop
