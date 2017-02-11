@@ -8,7 +8,7 @@ Mecano is a DOS based GUI oriented educational software for learning about mecha
 Technology
 ----------
 
-The technology used for Mecano is the same as the one used for [Physics]((https://github.com/mveteanu/Physics).
+The technology used for Mecano is the same as the one used for [Physics](https://github.com/mveteanu/Physics).
 Both titles are built using the [VMA Win](https://github.com/mveteanu/VMAWin) library for implementing GUI (Windows like) interfaces under DOS.
 [VMA Win](https://github.com/mveteanu/VMAWin) library was also developed by VMASOFT.
 
