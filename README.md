@@ -10,7 +10,7 @@ Technology
 
 The technology used for Mecano is the same as the one used for [Physics](https://github.com/mveteanu/Physics).
 Both titles are built using the [VMA Win](https://github.com/mveteanu/VMAWin) library for implementing GUI (Windows like) interfaces under DOS.
-[VMA Win](https://github.com/mveteanu/VMAWin) library was also developed by VMASOFT.
+[VMA Win](https://github.com/mveteanu/VMAWin) library was also developed by Marian Veteanu at VMASOFT.
 
 Features
 --------
