@@ -20,6 +20,14 @@ Features
 - mouse support
 - hyper-text documents
 
+Screencast
+----------
+
+- [http://www.vmasoft.net/mecano.html](http://www.vmasoft.net/mecano.html)
+
+Screenshots
+-----------
+
 ![Mecano](img/mecano01.png)
 ![Mecano](img/mecano02.png)
 ![Mecano](img/mecano03.png)
